@@ -8,5 +8,6 @@ Simple algorithm for interpretation of calculations. create an application that 
   • Following Operaors :   / , x , % , \ , ^ , - , +     
 # This algorithm still does not support:           
   • Result of operations exceeding 999 ^ 5  
+  • scientific notation
 
 
